@@ -1,0 +1,12 @@
+Linux
+Bash
+Git
+GitHub
+API
+HTTP/HTTPS
+Web testing
+Mobile testing
+Proxy
+VPN
+SQL
+JMeter
